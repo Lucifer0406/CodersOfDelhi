@@ -1,0 +1,13 @@
+## Hi there 👋
+
+#Developed a mini social network analysis system using pure Python, including 
+#data cleaning, 
+#mutual friend-based “People You May Know” recommendations, 
+#and collaborative filtering-based “Pages You Might Like” suggestions
+#without using external libraries like pandas or NumPy.
+
+#CODmain and CODmain2 files are my main codes...
+#Along side with "People you may know" page and "Pages you might like" page...
+#all the json files are only there to get data from for all the operations...
+
+#thanks for visiting my repo...
