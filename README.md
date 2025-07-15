@@ -1,8 +1,4 @@
-Here’s a polished `README.md` tailored for your project **Coders of Delhi** based on the notebooks and datasets you uploaded:
-
----
-
-# 👥 Coders of Delhi
+## 👥 Coders of Delhi
 
 **Coders of Delhi** is a Python-based data project that simulates a social network of Delhi's tech community. It explores **friend recommendations** and **page suggestions** based on user interests and mutual connections using JSON-based user data.
 
