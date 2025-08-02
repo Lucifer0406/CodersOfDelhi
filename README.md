@@ -86,7 +86,3 @@
 * Jupyter Notebooks
 * JSON
 * pandas (for extended analysis – optional)
-
----
-
-Let me know if you want a version with GIFs, demo images, or usage examples in Markdown!
