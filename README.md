@@ -51,8 +51,8 @@
 1. Clone this repo
 
    ```bash
-   git clone https://github.com/Lucifer0406/coders-of-delhi.git
-   cd coders-of-delhi
+   git clone https://github.com/Lucifer0406/CodersOfDelhi.git
+   cd CodersOfDelhi
    ```
 
 2. Open notebooks (`.ipynb`) using Jupyter Notebook, VSCode, or Google Colab.
