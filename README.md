@@ -51,7 +51,7 @@
 1. Clone this repo
 
    ```bash
-   git clone https://github.com/yourusername/coders-of-delhi.git
+   git clone https://github.com/Lucifer0406/coders-of-delhi.git
    cd coders-of-delhi
    ```
 
